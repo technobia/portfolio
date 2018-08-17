@@ -1,7 +1,7 @@
 <template>
-  <div class="hello">
-    <h1>{{ msg }}</h1>
-    <h2>Essential Links</h2>
+  <div class="under-construction">
+    <img src="@/assets/under-construction.svg">
+    <h1>I'm working on it...!</h1>
   </div>
 </template>
 
