@@ -1,7 +1,7 @@
 /**
  * Created by binh on 9/10/18.
  */
-const express = require('express')
+const express = require('express');
 const app = express();
 
 app.use(express.static(__dirname + '/docs'));
