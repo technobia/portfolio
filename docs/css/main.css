@@ -2194,3 +2194,8 @@ ul.social-links li:last-child a {
   background-color: #fff;
 }
 /* /Header Main Color BG */
+@media only screen and (max-width: 991px) {
+  .pt-page-current, .no-js .pt-page, .ajax-page-content {
+    -webkit-overflow-scrolling: touch;
+  }
+}
